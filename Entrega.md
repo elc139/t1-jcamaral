@@ -19,5 +19,5 @@ Nome: Juliano Cesar Colling do Amaral
 ### Referências
 - TOP 500 Pleiades - SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4 2.6/2.8/2.5/2.4 GHz, Infiniband FDR. https://www.top500.org/system/177259
 - Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
+- Ferramenta Usada: https://www.techpowerup.com/download/linpack-xtreme/
 - ...
