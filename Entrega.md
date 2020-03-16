@@ -10,9 +10,9 @@ Nome: Juliano Cesar Colling do Amaral
 | Classificação de Flynn                                    |                       |                 |
 | Memória: compartilhada, distribuída ou ambas?             |                       |                 |
 | Número total de núcleos de processamento                  |241,108                |                 |
-| Fabricante e modelo do(s) processador(es)                 |Intel Xeon E5-2680v2 10C|                 |
-| Frequência do(s) processador(es)                          |2.8GHz                 |                 |
-| Memória total                                             |917,344 GB             |                 |
+| Fabricante e modelo do(s) processador(es)                 |Intel Xeon E5-2680v2 10C|Interl Core i7-4790|
+| Frequência do(s) processador(es)                          |2.8GHz                 |3.60GHz          |
+| Memória total                                             |917,344 GB             |16 GB            |
 | Tipo(s) de interconexão entre os núcleos/processadores    |Infiniband FDR         |                 |
 | Desempenho Linpack                                        |5,951.55 TFlop/s       |                 |
 
