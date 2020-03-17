@@ -7,10 +7,10 @@ Nome: Juliano Cesar Colling do Amaral
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               | Pleiades              | Juliano-pc      |
 | Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pleiades_supercomputer.jpg/1200px-Pleiades_supercomputer.jpg"> | <img src="WhatsApp Image 2020-03-16 at 8.37.58 PM.jpeg">|
-| Classificação de Flynn                                    |                       |                 |
-| Memória: compartilhada, distribuída ou ambas?             |                       |                 |
-| Número total de núcleos de processamento                  |241,108                |                 |
-| Fabricante e modelo do(s) processador(es)                 |Intel Xeon E5-2680v2 10C|Interl Core i7-4790|
+| Classificação de Flynn                                    |MIMD                   |MIMD             |
+| Memória: compartilhada, distribuída ou ambas?             |Ambas                  |Compartilhada    |
+| Número total de núcleos de processamento                  |241,108                |4                |
+| Fabricante e modelo do(s) processador(es)                 |Intel Xeon E5-2680v2 10C|Intel Core i7-4790|
 | Frequência do(s) processador(es)                          |2.8GHz                 |3.60GHz          |
 | Memória total                                             |917,344 GB             |16 GB            |
 | Tipo(s) de interconexão entre os núcleos/processadores    |Infiniband FDR         |                 |
@@ -18,6 +18,6 @@ Nome: Juliano Cesar Colling do Amaral
 
 ### Referências
 - TOP 500 Pleiades - SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4 2.6/2.8/2.5/2.4 GHz, Infiniband FDR. https://www.top500.org/system/177259
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
+- Especificações Intel Core i7-4790: https://ark.intel.com/content/www/br/pt/ark/products/80806/intel-core-i7-4790-processor-8m-cache-up-to-4-00-ghz.html
 - Ferramenta Usada: https://www.techpowerup.com/download/linpack-xtreme/
 - ...
