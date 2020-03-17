@@ -6,7 +6,7 @@ Nome: Juliano Cesar Colling do Amaral
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               | Pleiades              | Juliano-pc      |
-| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pleiades_supercomputer.jpg/1200px-Pleiades_supercomputer.jpg"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pleiades_supercomputer.jpg/1200px-Pleiades_supercomputer.jpg"> | <img src="WhatsApp Image 2020-03-16 at 8.37.58 PM.jpeg">|
 | Classificação de Flynn                                    |                       |                 |
 | Memória: compartilhada, distribuída ou ambas?             |                       |                 |
 | Número total de núcleos de processamento                  |241,108                |                 |
